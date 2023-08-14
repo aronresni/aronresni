@@ -1,8 +1,6 @@
-### Hi there 👋
-<h1 classname="align-text">
-🔭 I’m currently intern on No-Country
-  <h1>
-🌱 I’m currently learning React Native
+<h2> Hi, I'm Thai Braga! </h2>
+<p><em>Intern React Trainee on <a href="https://www.linkedin.com/company/nocountrytalent/">No-Country</a>
+</em></p>
 
 
 <!--
