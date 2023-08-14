@@ -1,9 +1,10 @@
 <h2> Hi, I'm Aron Resnicoff! </h2>
 <p><em>Intern React Trainee on <a href="https://www.linkedin.com/company/nocountrytalent/">No-Country</a>
 </em></p>
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
+<a href="https://www.linkedin.com/in/aron-resnicoff/"><button>Linkedln</button></a>
+<br>
+<a target="_blank" href="https://aronresni.vercel.app/"><button>Portfolio</button></a>
 
 ```javascript
 const Aron = {
