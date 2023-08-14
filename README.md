@@ -1,6 +1,9 @@
 ### Hi there 👋
+<h1 classname="align-text">
 🔭 I’m currently intern on No-Country
+  <h1>
 🌱 I’m currently learning React Native
+
 
 <!--
 **aronresni/aronresni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
