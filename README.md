@@ -8,15 +8,9 @@
 ```javascript
 const Aron = {
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Tailwind Css, Sequalize, Express],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+  tools: [React, Redux, Node, Tailwind Css, Sequalize, Express, PostgreeSQL, Git],
+  learning: [React Native]
+
 ```
 <!--
 **aronresni/aronresni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
