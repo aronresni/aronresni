@@ -11,7 +11,7 @@ const Aron = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Tailwind Css, Sequalize, Express, PostgreeSQL, Git],
   learning: [React Native, English]
-  Engish: Elementary A2, actually learning.
+  Engish: Upper Intermediate B2, actually learning.
 
 ```
 <!--
