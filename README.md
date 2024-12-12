@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aron Resnicoff! </h2>
-<p><em>Front End Developer on <a href="https://www.linkedin.com/company/licit-easy/">Licita Easy</a>
+<p><em>Front End Developer on <a href="https://www.linkedin.com/company/licitaeasy/">Licita Easy</a>
 </em></p>
 
 <a href="https://www.linkedin.com/in/aron-resnicoff/"><button>Linkedln</button></a>
